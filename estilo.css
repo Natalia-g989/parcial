@@ -1,0 +1,90 @@
+.vide01{
+	 top: 0px;
+}
+.boton ul {
+	 top: 200px;
+         float: left;
+		display: flex;
+		padding: 0;
+		margin: 0;
+		width: 30px;
+		height: 30px;
+		list-style: none;
+	}
+	.boton a {
+		display: block;
+		padding: 2em;
+		background-color: #1E3D1C;
+		width: 30px;
+		height: 30px;
+		text-decoration: none;
+		color: #191C26;
+	}
+	.boton a:hover {
+		background-color: #CC673B;
+	}
+	.boton ul li ul {
+		display: none;
+	}
+	.boton ul li a:hover + ul, .boton ul li ul:hover {
+		display: block;
+	}
+
+	.boto ul {
+	
+         float: left;
+		display: flex;
+		padding: 0;
+		margin: 0;
+		width: 30px;
+		height: 30px;
+		list-style: none;
+	}
+	.boto a {
+		display: block;
+		padding: 2em;
+		background-color: #6E2C00;
+		width: 30px;
+		height: 30px;
+		text-decoration: none;
+		color: #191C26;
+	}
+	.boto a:hover {
+		background-color: #CC673B;
+	}
+	.boto ul li ul {
+		display: none;
+	}
+	.boto ul li a:hover + ul, .boto ul li ul:hover {
+		display: block;
+	}
+
+	.bot ul {
+	 top: 300px;
+         float: left;
+		display: flex;
+		padding: 0;
+		margin: 0;
+		width: 30px;
+		height: 30px;
+		list-style: none;
+	}
+	.bot a {
+		display: block;
+		padding: 2em;
+		background-color: #4C7BF0;
+		width: 30px;
+		height: 30px;
+		text-decoration: none;
+		color: #191C26;
+	}
+	.bot a:hover {
+		background-color: #CC673B;
+	}
+	.bot ul li ul {
+		display: none;
+	}
+	.bot ul li a:hover + ul, .bot ul li ul:hover {
+		display: block;
+	}
+
